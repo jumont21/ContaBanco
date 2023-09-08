@@ -49,12 +49,12 @@ public class ContaTerminal {
             saldo = Double.parseDouble(args[3]);
         }
 
-        System.out.print("Olá: " + nomeCliente);
-        System.out.print(" , obrigado(a) por criar uma conta em nosso banco, ");
-        System.out.print(" Sua agência é: " + agencia);
-        System.out.print(" , Conta: " + numero);
-        System.out.print(" e seu saldo: R$" + saldo);
-        System.out.print(" , já esta disponível para saque.");
+        System.out.print("Olá " + nomeCliente);
+        System.out.print(", obrigado(a) por criar uma conta em nosso banco, ");
+        System.out.print(" sua agência é: " + agencia);
+        System.out.print(", Conta: " + numero);
+        System.out.print(" e seu saldo de R$" + saldo);
+        System.out.print(" já esta disponível para saque.");
 
     }
 }
