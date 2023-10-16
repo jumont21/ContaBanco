@@ -1,5 +1,6 @@
 // créditos: https://github.com/CarlosEduardoLemos/Desafios-Bootcamp2023/blob/main/Java/Desafio03.java
-// comentários adicionados para estudo
+// o código não foi feito por mim, adicionei os comentários para estudo
+
 import java.util.Scanner;
 
 // Classe abstrata base para todos os tipos de cofre
